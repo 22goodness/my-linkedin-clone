@@ -8,8 +8,8 @@ import Post from './components/Post';
 
 const postData = [
   {
-    name: "Mayowa Obisesan",
-    bio: "Software Engineer | Frontend Developer | Web3 Mentor at web3bridge",
+    name: "ONU GOODNESS AMADI",
+    bio: "Technical Writer | Frontend Developer | Web2 Advanced Student at web3bridge",
     text: "This is the dummy text that should show for the first post component"
   },
   {
@@ -41,8 +41,8 @@ const postData = [
     bio: "This is user seven bio",
   },
   {
-    name: "Mayowa Obisesan",
-    bio: "Software Engineer | Frontend Developer | Web3 Mentor at web3bridge",
+    name: "ONU GOODNESS AMADI",
+    bio: "Technical Writer | Frontend Developer | Web2 Advanced Student at web3bridge",
   },
 ]
 

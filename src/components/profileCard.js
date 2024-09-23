@@ -3,14 +3,14 @@ import "../styles/ProfileCard.css";
 
 export const profileData = {
     dp: <img
-        src="https://api.dicebear.com/9.x/adventurer/svg?seed=Ryan"
+        src="https://www.svgrepo.com/show/382100/female-avatar-girl-face-woman-user-7.svg"
         alt="avatar"
         width={80}
         height={80}
         style={{ background: "navajowhite", borderRadius: "50%", border: "2px solid white" }}
     />,
-    name: "Mayowa Obisesan",
-    bio: "Software Engineer | Frontend Developer | Web3 Mentor at web3bridge",
+    name: "ONU GOODNESS AMADI",
+    bio: "Technical Writer | Frontend Developer | Web2 Advanced Student at web3bridge",
     profileViewers: 65,
     postImpressions: 43,
 }

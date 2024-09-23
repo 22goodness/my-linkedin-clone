@@ -58,7 +58,7 @@ function Navbar() {
                     }
                     <a>
                         <img
-                            src="https://api.dicebear.com/9.x/adventurer/svg?seed=Ryan"
+                            src="https://www.svgrepo.com/show/382100/female-avatar-girl-face-woman-user-7.svg"
                             alt="avatar"
                             width={24}
                             height={24}

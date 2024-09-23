@@ -8,7 +8,7 @@ function Post({ name, bio, date, text, image }) {
         <div className="border px-4 py-3 rounded-lg bg-white text-left">
             <div className="flex flex-row text-left items-start gap-x-3">
                 <img
-                    src="https://api.dicebear.com/9.x/adventurer/svg?seed=Ryan"
+                    src="https://www.svgrepo.com/show/382100/female-avatar-girl-face-woman-user-7.svg"
                     alt="avatar"
                     width={48}
                     height={48}
