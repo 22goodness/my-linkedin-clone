@@ -1,16 +1,19 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Navbar from './components/navBar';
 import 'boxicons'
 import ProfileCard from './components/profileCard';
 import CreatePost from './components/CreatePost';
 import Post from './components/Post';
+import RecommendationsCard from './components/Recommendations';
+import RightFooter from './components/RightFooter';
+
 
 const postData = [
   {
     name: "ONU GOODNESS AMADI",
     bio: "Technical Writer | Frontend Developer | Web2 Advanced Student at web3bridge",
-    text: "This is the dummy text that should show for the first post component"
+    text: "Building this Linkedin clone was not easy at all, I almost cried but thankgod for teamwork"
   },
   {
     name: "User one",
@@ -73,7 +76,8 @@ function App() {
 
         {/* The Right side of the body */}
         <div>
-          <ProfileCard />
+          <RecommendationsCard />
+          <RightFooter />
         </div>
       </div>
     </div>
